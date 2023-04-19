@@ -2,4 +2,4 @@
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0077b5
 
-[linkedin-url]: <a target="_blank">https://www.linkedin.com/in/sven-punselie-15a059270/</a>
+[linkedin-url]: https://www.linkedin.com/in/sven-punselie-15a059270/
