@@ -1,3 +1,4 @@
+[![AUTHOR - Noaskers](https://img.shields.io/static/v1?label=AUTHOR&message=NoAskers&color=42a4f5&style=for-the-badge&logo=discord+)](https://github.com/noaskers)
 ### Hi there 👋
 
 <!--
