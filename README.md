@@ -8,8 +8,3 @@
   		<img src="https://github-readme-stats.vercel.app/api?username=noaskers&show_icons=true&count_private=true&custom_title=Noaskerks+GitHub+Stats&theme=react" />  
 	</a>
 </div>
-<div align="center">
-	<a href="" >  
-  		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=noaskers&theme=react&layout=compact&range=last_30_days" />  
-	</a>
-</div>
