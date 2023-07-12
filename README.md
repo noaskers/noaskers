@@ -10,6 +10,6 @@
 </div>
 <div align="center">
 	<a href="" >  
-  		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=noaskers&theme=react&layout=compact&range=last_7_days" />  
+  		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=noaskers&theme=react&layout=compact&range=last_30_days" />  
 	</a>
 </div>
