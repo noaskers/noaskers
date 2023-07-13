@@ -1,11 +1,7 @@
-# A Music Lover who also Loves to Code
+# Code & Music = 😀
 
-## 👋 Hi, I'm **Raghavan**
+## 👋 Hi, I'm **Sven**
 - 🤗 A Computer Science College Student
-- 😍 Interested in Full Stack web dev, UI/UX Designing, Open-Source
-- ⚙️ Technologies I'm familiar with: React JS, Solid JS, Node JS, Electron, Python Scripting
-- 🎵 A Music Lover, who can't Stop listening to Music
-- 🎮 My Favorite Game is Red Dead Redemption 2
 
 </br>
 
