@@ -10,7 +10,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noaskers&layout=compact&theme=dracula&langs_count=8)
 
 # My Favorite Projects
-[![FrontEnd](https://github-readme-stats.vercel.app/api/pin/?username=noaskers&repo=Webdev1&theme=dracula)](http://github.com/noaskers/webdev)
+[![FrontEnd](https://github-readme-stats.vercel.app/api/pin/?username=noaskers&repo=AstroSmp&theme=dracula)](http://github.com/noaskers/webdev)
 
 </br>
 
