@@ -1,6 +1,6 @@
 # Code & Music = 😀
 
-## 👋 Hi, I'm **Sven**
+## 👋 Hi, I'm **Noaskers**
 - 🤗 A Computer Science College Student
 
 </br>
