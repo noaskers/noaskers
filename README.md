@@ -6,8 +6,9 @@
 </br>
 
 # Stats
-![Raghavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=noaskers&show_icons=true&theme=dracula)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noaskers&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoAskers&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoAskers&layout=donut&theme=radical)]
+
 
 # My Favorite Projects
 [![FrontEnd](https://github-readme-stats.vercel.app/api/pin/?username=noaskers&repo=portofolio&theme=dracula)](http://github.com/noaskers/portofolio)
