@@ -1,7 +1,7 @@
 # Code & Music = 😀
 
 ## 👋 Hi, I'm **Noaskers**
-- 🤗 A Computer Science College Student
+- 🤗 A Sofware Developer College Student
 
 ## 🎵 Music right **NOW**
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=mdz5uvmi5htlji5un94snyhnu&count=1)
